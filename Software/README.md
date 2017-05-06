@@ -1,4 +1,6 @@
-# 字母、拼音顺序排列：
+# 列表：
+
+[【Android, iOS】照片扫瞄仪（Google 相册产品），去除眩光，校准颜色](【Android%2C%20iOS】照片扫瞄仪（Google%20相册产品），去除眩光，校准颜色.md)
 
 [【Windows】Process Lasso：动态调整进程优先级，有效解决卡顿问题](【Windows】Process%20Lasso：动态调整进程优先级，有效解决卡顿问题.md)
 
