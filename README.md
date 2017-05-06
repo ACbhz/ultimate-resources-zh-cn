@@ -6,6 +6,6 @@
 
 * Software：软件，标签为 Windows、Linux、Mac、Android、iOS、Other，包含前三项即为 All，使用“,”分隔；
 
-* Book：书籍，标签为出版时间，格式为 yyyy-MM，或者为“持续更新”、“有新版”，看书之前先看豆瓣书评；
+* Book：书籍，标签为出版时间，格式为 yyyy-MM，或者为“持续更新”、“有新版”，建议看书之前先看豆瓣书评；
 
 * Extensions：浏览器扩展及应用，标签为“Chrome 扩展”、“Chrome 应用”等，提供应用商店下载地址。
