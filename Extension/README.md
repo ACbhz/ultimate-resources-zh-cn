@@ -9,5 +9,3 @@
 [【Chrome 扩展】新同文堂：繁体简体中文转换工具](【Chrome%20扩展】新同文堂：繁体简体中文转换工具.md)
 
 [【Tampermonkey】百度网盘直接下载助手](【Tampermonkey】百度网盘直接下载助手.md)
-
-[【Chrome 扩展】优酷HTML5播放器](【Chrome%20扩展】优酷HTML5播放器.md)
