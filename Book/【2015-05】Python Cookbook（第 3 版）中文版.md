@@ -14,4 +14,4 @@ Brain K. Jones 是普林斯顿大学计算机系的一位系统管理员。
 ### 资源
 
 * 原版：[百度网盘](https://pan.baidu.com/s/19pWSPD0kh-6RrL7ySZv9wQ)，提取码：minx。
-* GitHub 非官方翻译版：[yidao620c](https://github.com/yidao620c) / [python3-cookbook](https://github.com/yidao620c/python3-cookbook)
+* GitHub 非官方翻译版：[python3-cookbook](https://github.com/yidao620c/python3-cookbook)
