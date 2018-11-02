@@ -4,7 +4,7 @@
 
 ## 目录
 
-* Software：软件，标签为 Windows、Linux、Mac、Android、iOS、Other，包含前三项即为 All，使用“,”分隔；
+* Software：软件，标签为 Windows、Linux、Mac、Android、iOS、Other，包含前三项即为 All，使用“, ”分隔；
 
 * Book：书籍，标签为出版时间，格式为 yyyy-MM，可追加标签，如“持续更新”、“有新版/修订版”等，建议看书之前先看豆瓣书评或者亚马逊书评；
 
