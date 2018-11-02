@@ -1,8 +1,10 @@
-# 简介
+# ultimate-resources-zh-cn
+
+## 简介
 
 优秀的软件资源及电子书资源等，大家可以提交、反馈建议以及提出需求。
 
-# 目录
+## 目录
 
 * Software：软件，标签为 Windows、Linux、Mac、Android、iOS、Other，包含前三项即为 All，使用“,”分隔；
 
@@ -10,6 +12,6 @@
 
 * Extensions：浏览器扩展、应用及 Tampermonkey 脚本，标签为“Chrome 扩展”、“Chrome 应用”、“Tampermonkey”等。
 
-# 说明
+## 说明
 
 资源失效或陈旧可以[发送邮件](mailto:duanluan@outlook.com)或加群：[计算机科学与艺术研究小组（CSAARG）](//shang.qq.com/wpa/qunwpa?idkey=7a3091ee747d76650cf3bfc9e0d2568bc42bd6c9bc7c47bf8d01fa37461e054f)。
