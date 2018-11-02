@@ -1,3 +1,8 @@
+![](https://lh3.googleusercontent.com/7A2rHNvmkrQUjalxrI1uajIWB5G5UTjoAEV7Vtti4sBWcRXzZJIHhiqP2eJ9u7imKg=w720-h310-rw)
+![](https://lh3.googleusercontent.com/pMlp5mioAO1F1vAvMKOXanfCqPMJp6QeLQThJKszAx-McBmKFtXuMThKGSn2EQMWHpzg=w720-h310-rw)
+![](https://lh3.googleusercontent.com/D-4zwibJz11bzh6JZHNeSdT6qfavLQlRWJHkzDVC58MnuTAlIYHhEjg8S5oEuo1dn4qk=w720-h310-rw)
+![](https://lh3.googleusercontent.com/cFaWTzaelWZdZmUZ2yTeDaSo5dDK19LgBf7JtSOm93nm3_ncrC0w4T5oeFky6xg-ctI=w720-h310-rw)
+
 ### 简介
 
 Google 相册全新推出照片扫瞄仪应用，只要使用手机摄像头就能扫瞄并保存最心爱的冲印照片。
