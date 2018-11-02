@@ -12,4 +12,4 @@
 
 # 说明
 
-部分资源为 CSDN 下载，如果没有积分可以[发送邮件](mailto:duanluan@outlook.com)或加群：[计算机科学与艺术研究小组（CSAARG）](//shang.qq.com/wpa/qunwpa?idkey=7a3091ee747d76650cf3bfc9e0d2568bc42bd6c9bc7c47bf8d01fa37461e054f)。
+资源失效或陈旧可以[发送邮件](mailto:duanluan@outlook.com)或加群：[计算机科学与艺术研究小组（CSAARG）](//shang.qq.com/wpa/qunwpa?idkey=7a3091ee747d76650cf3bfc9e0d2568bc42bd6c9bc7c47bf8d01fa37461e054f)。
