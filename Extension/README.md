@@ -8,4 +8,6 @@
 
 [【Chrome 扩展】新同文堂：繁体简体中文转换工具](【Chrome%20扩展】新同文堂：繁体简体中文转换工具.md)
 
-[【Tampermonkey】百度网盘直接下载助手](【Tampermonkey】百度网盘直接下载助手.md)
+[【Tampermonkey】AC-baidu：重定向优化百度搜狗谷歌搜索_去广告_favicon_双列](【Tampermonkey】AC-baidu：重定向优化百度搜狗谷歌搜索_去广告_favicon_双列.md)
+
+[【Tampermonkey】百度网盘直接下载助手_直链加速版](【Tampermonkey】百度网盘直接下载助手_直链加速版.md)
