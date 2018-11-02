@@ -1,4 +1,4 @@
-# 简介
+### 简介
 
 Google 相册全新推出照片扫瞄仪应用，只要使用手机摄像头就能扫瞄并保存最心爱的冲印照片。
 
@@ -22,7 +22,7 @@ Google 相册能让照片安全无虞且便于搜索
 
 通过免费的 Google 相册应用备份您的扫瞄照片，不仅安全可靠、便于搜索，而且井井有条。借助影片、滤镜和高级修片控件，可以让扫瞄的照片愈发生动有趣。只需发送一个链接，就能与任何人分享照片。
 
-# 资源
+### 资源
 
 * Google Play：[https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner)
 * 酷安：[http://www.coolapk.com/apk/com.google.android.apps.photos.scanner](http://www.coolapk.com/apk/com.google.android.apps.photos.scanner)
