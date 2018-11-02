@@ -8,4 +8,4 @@
 
 * Chrome 网上应用店：[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 * GitHub：[tulios](https://github.com/tulios) / [json-viewer](https://github.com/tulios/json-viewer)
-* ChromeFor：[JSON Viewer](https://www.chromefor.com/?s=JSON+Viewer_)
+* ChromeFor：[JSON Viewer](https://www.chromefor.com/?s=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fjson-viewer%2Fgbmdgpbipfallnflgajpaliibnhdgobh)
