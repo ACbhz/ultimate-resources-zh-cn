@@ -7,3 +7,4 @@
 ### 资源
 
 * Chrome 网上应用店：[FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+* ChromeFor：[FireShot](https://www.chromefor.com/?s=FireShot)
