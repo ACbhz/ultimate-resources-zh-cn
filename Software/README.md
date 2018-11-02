@@ -7,3 +7,5 @@
 [【Windows】Shadow Defender：小巧且性能卓越的系统还原工具](【Windows】Shadow%20Defender：小巧且性能卓越的系统还原工具.md)
 
 [【Windows】Snipaste：简单但强大的截图工具](【Windows】Snipaste：简单但强大的截图工具.md)
+
+[【Windows】Uninstall Tool：快速强大的专业卸载工具](【Windows】Uninstall%20Tool：快速强大的专业卸载工具.md)

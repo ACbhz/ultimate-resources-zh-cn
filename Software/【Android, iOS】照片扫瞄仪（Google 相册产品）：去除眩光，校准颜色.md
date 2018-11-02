@@ -1,4 +1,9 @@
-# 简介
+![](https://lh3.googleusercontent.com/7A2rHNvmkrQUjalxrI1uajIWB5G5UTjoAEV7Vtti4sBWcRXzZJIHhiqP2eJ9u7imKg=w720-h310-rw)
+![](https://lh3.googleusercontent.com/pMlp5mioAO1F1vAvMKOXanfCqPMJp6QeLQThJKszAx-McBmKFtXuMThKGSn2EQMWHpzg=w720-h310-rw)
+![](https://lh3.googleusercontent.com/D-4zwibJz11bzh6JZHNeSdT6qfavLQlRWJHkzDVC58MnuTAlIYHhEjg8S5oEuo1dn4qk=w720-h310-rw)
+![](https://lh3.googleusercontent.com/cFaWTzaelWZdZmUZ2yTeDaSo5dDK19LgBf7JtSOm93nm3_ncrC0w4T5oeFky6xg-ctI=w720-h310-rw)
+
+### 简介
 
 Google 相册全新推出照片扫瞄仪应用，只要使用手机摄像头就能扫瞄并保存最心爱的冲印照片。
 
@@ -22,7 +27,7 @@ Google 相册能让照片安全无虞且便于搜索
 
 通过免费的 Google 相册应用备份您的扫瞄照片，不仅安全可靠、便于搜索，而且井井有条。借助影片、滤镜和高级修片控件，可以让扫瞄的照片愈发生动有趣。只需发送一个链接，就能与任何人分享照片。
 
-# 资源
+### 资源
 
 * Google Play：[https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner)
 * 酷安：[http://www.coolapk.com/apk/com.google.android.apps.photos.scanner](http://www.coolapk.com/apk/com.google.android.apps.photos.scanner)

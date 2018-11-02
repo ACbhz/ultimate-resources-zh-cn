@@ -1,16 +1,16 @@
 ![](http://img3x8.ddimg.cn/7/19/24029188-1_u_28.jpg)
 
-# 内容简介
+### 内容简介
 
 JavaScript 这门语言简单易用，很容易上手，但其语言机制复杂微妙，即使是经验丰富的 JavaScript 开发人员，如果没有认真学习的话也无法真正理解。本套书直面当前 JavaScript 开发人员不求甚解的大趋势，深入理解语言内部的机制，全面介绍了 JavaScript 中常被人误解和忽视的重要知识点。本书是其中卷，主要介绍了类型、语法、异步和性能。
 
-# 作者简介
+### 作者简介
 
 Kyle Simpson
 
 作家、培训师、讲师、开源社区的活跃成员，推崇开放的互联网，对 JavaScript、HTML5、实时 / 端对端通信和 Web 性能有深入研究。
 
-# 译者简介
+### 译者简介
 
 单业
 
@@ -20,6 +20,6 @@ Kyle Simpson
 
 从事过国内外金融、通信、移动互联网、数字出版等领域的 IT 系统开发工作，擅长的技术有 Java、C#、HTML5、JavaScript、iOS、Android 等。长期在独立技术博客——酷壳（coolshell.cn）发表翻译文章。负责本书第一部分 “类型和语法” 的翻译。
 
-# 资源
+### 资源
 
-* PDF：[CSDN](http://download.csdn.net/download/u013998657/9674583)
+* 原版带书签：[百度网盘](https://pan.baidu.com/s/16QxVIkpE--9mcaA_RQ1hrQ)，提取码：5rx5。
