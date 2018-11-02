@@ -1,4 +1,6 @@
-# 简介
+![](https://lh3.googleusercontent.com/hrMzVHSe3fwFMuXVIzXNwQdAMf_aNkJwGeM7ItL2USDnQLS_eFLpGgKKTYNh9IFoRpXGG3Mb=w640-h400-e365)
+
+### 简介
 
 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。
 
@@ -8,7 +10,7 @@
 
 与大家共勉之。
 
-# 资源
+### 资源
 
 * Chrome 网上应用店：[为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)
-* GitHub：[vinta](https://github.com/vinta) / [pangu.js](https://github.com/vinta/pangu.js)
+* GitHub：[pangu.js](https://github.com/vinta/pangu.js)
