@@ -14,4 +14,5 @@
 
 资源失效或陈旧可以[发送邮件](mailto:duanluan@outlook.com)或加群：[计算机科学与艺术研究小组（CSAARG）](//shang.qq.com/wpa/qunwpa?idkey=7a3091ee747d76650cf3bfc9e0d2568bc42bd6c9bc7c47bf8d01fa37461e054f)。
 
+高评分**扫描版**PDF 可以帮忙优化，Issues 告知即可。
 **列表暂时不更新**，后期会用 GitHub GraphQL API v4 写个工具自动更新。
