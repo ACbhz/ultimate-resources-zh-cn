@@ -26,13 +26,13 @@
 
 ### 译者简介
 
-　　柴树杉：Github [@chai2010](//github.com/chai2010)，Twitter [@chaishushan](//twitter.com/chaishushan)
+* 柴树杉：Github [@chai2010](//github.com/chai2010)，Twitter [@chaishushan](//twitter.com/chaishushan)
 
-　　cch123：[github.com/cch123](//github.com/cch123)
+* cch123：[github.com/cch123](//github.com/cch123)
 
-　　CrazySssst
+* CrazySssst
 
-　　foreversmart：<njutree@gmail.com>
+* foreversmart：<njutree@gmail.com>
 
 ### 资源
 
